@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
   👋 Hello, I'm Benjamin Possolo 🇺🇸 🇵🇹 🇩🇪
-</h2>
+</h1>
 
 
 [![Instagram](https://img.shields.io/badge/styleguise-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/styleguise/)
