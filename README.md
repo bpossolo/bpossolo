@@ -34,7 +34,12 @@
 export default {
   data() {
     return {
-      hobbies: ['coding', 'sewing', 'drawing', 'gaming'];
+      hobbies: [
+        'coding',
+        'sewing',
+        'drawing',
+        'gaming'
+      ];
     };
   }
 }
