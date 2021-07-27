@@ -16,7 +16,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Favorite quote: "The flame that burns twice as bright burns half as long."
 
-```JSX
+```vue
 <template>
   <h1>
     I love
