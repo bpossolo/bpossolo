@@ -10,8 +10,8 @@
 
 - 🔭 I work for [OneMedical](https://onemedical.com) on the Patient Health Record and COVID Lab Result Processing.
 - 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking to collaborate with Graphic Designers, Fashion Writers and Fashion Photographers.
 - 💬 Ask me about: 🪡 🧵 🥼 🎨 🇯🇵 🎮 🏋🏻‍♀️ 🎳 🛵
+- 🤔 I’m looking to collaborate with Graphic Designers, Fashion Writers and Fashion Photographers.
 - 📫 How to reach me: bpossolo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Favorite quote: "The flame that burns twice as bright burns half as long."
